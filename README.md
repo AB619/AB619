@@ -5,6 +5,7 @@
 </h1>
 
 <h3 align="center">JavaScript Developer</h3>
+<h5 align="center">⚡May the code be with you⚡</h5>
 
 <br/>
 
@@ -14,9 +15,7 @@
  
  🌱 I’m currently learning **Docker, AWS**
 
-💬 Ask me about **React, Vue3, JavaScript, Node.js... or anything [here](https://github.com/AB619/AB619/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+💬 Ask me about **JavaScript, React, Next.js, Vue3, Node.js... or anything [here](https://github.com/AB619/AB619/issues)**
 
  </div>
  
